@@ -1,4 +1,4 @@
-# sessionsploit
+# Sessionsploit
 C# session hijacking gui
 https://github.com/bohops/SharpRDPHijack
 
